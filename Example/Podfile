@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Sirius_Example' do
+  pod 'Sirius', :path => '../'
+
+  target 'Sirius_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
