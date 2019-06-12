@@ -1,0 +1,6 @@
+framework module Sirius {
+  umbrella header "Sirius-umbrella.h"
+
+  export *
+  module * { export * }
+}

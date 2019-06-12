@@ -1,0 +1,22 @@
+{
+  "name": "Sirius",
+  "version": "0.1.0",
+  "summary": "A short description of Sirius.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hongruqi/Sirius",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hongruqi": "qihongru@didichuxing.com"
+  },
+  "source": {
+    "git": "https://github.com/hongruqi/Sirius.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Sirius/Classes/**/*"
+}

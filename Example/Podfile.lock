@@ -1,0 +1,16 @@
+PODS:
+  - Sirius (0.1.0)
+
+DEPENDENCIES:
+  - Sirius (from `../`)
+
+EXTERNAL SOURCES:
+  Sirius:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Sirius: af0188cc5a346daaff68e879981070e4ddd6fa41
+
+PODFILE CHECKSUM: 77264df3a2f81da73636b67731e6efacb5c180a5
+
+COCOAPODS: 1.3.1
